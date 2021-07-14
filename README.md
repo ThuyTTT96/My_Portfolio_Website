@@ -14,3 +14,4 @@ This case study road map is aiming to gain insight into how non-Bellabeat's cons
 
 This project is the capstone project for the Bachelor of Computer Science at the University of Information Technology, Vietnam National University
 The project was built in 6 months by me and my partner under the supervisor's guides, this project aims to retrieve people in the school camera system by applying deep learning and machine learning to image/video processing.
+![](/images/peoplesearch.JPG)
